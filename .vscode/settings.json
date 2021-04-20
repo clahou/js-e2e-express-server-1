@@ -9,4 +9,5 @@
     "editor.codeActionsOnSave": {
         "source.fixAll.eslint": true
     },
+    "appService.defaultWebAppToDeploy": "/subscriptions/23aa4d9f-5ec9-4f87-929f-f5673a27dafe/resourceGroups/lab-clahou-rg/providers/Microsoft.Web/sites/crefidu",
 }
